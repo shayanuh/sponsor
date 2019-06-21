@@ -2575,7 +2575,7 @@
 		@media screen and (max-width: 1280px) {
 
 			#header {
-				padding: 2em 0 2em 4em;
+				padding: 2em 0 2em 5em;
 			}
 
 		}
@@ -2646,14 +2646,15 @@
   right: 0;
   background-color: #111;
   overflow-x: hidden;
-  /*transition: 0.5s;*/
+  transition: 0.3s;
   padding-top: 60px;
 }
 
 .sidenav a {
+  		
   padding: 8px 8px 8px 32px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 20spx;
   color: #818181;
   display: block;
   transition: 0.3s;
