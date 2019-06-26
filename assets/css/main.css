@@ -2725,6 +2725,7 @@
 
 		#contact .column.social {
 			background: #e6e6e6;
+			padding: 2em 0 0.1em 0;
 		}
 
 		@media screen and (max-width: 980px) {
