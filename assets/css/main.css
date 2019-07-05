@@ -2680,6 +2680,8 @@
 #udghosh18 img
 {
 	width:70%;
+	margin-left: 12%;
+	margin-right: 18%;
 }
 /* Contact */
 
@@ -2718,7 +2720,7 @@
 		width: 50%;
 	}
 	
-	#conatct textarea
+	#contact textarea
 	{
 		border:1px solid black;
 	}
